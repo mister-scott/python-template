@@ -1,0 +1,11 @@
+# Basic deps
+pip
+setuptools
+
+# If building a project to a binary, uncomment the following
+# pyinstaller
+
+##############################################################
+# Use this document to add any dependencies for the project. #
+##############################################################
+
